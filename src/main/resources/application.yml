@@ -1,0 +1,4 @@
+aws:
+  access-key:
+  secret-key:
+  region: us-east-1
